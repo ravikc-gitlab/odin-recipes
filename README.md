@@ -1,2 +1,5 @@
-# odin-recipes
-ODIN Recipes
+New Project following ODIN Site
+Recipes added
+Pumpikin Seeds
+Apple Crisp
+SoftPretzels
